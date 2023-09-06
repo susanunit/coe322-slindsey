@@ -2,7 +2,7 @@ Today in Class September 5, 2023
 
 ## Today in Class 
 
-* Reviewed various solutions for Homework 3. See the "`collatz_discussion.txt`" file in the `sessions` subdirectory in the student repo.
+* Reviewed various solutions for Homework 3. See the "`collatz_discussion.txt`" and "`split_discussion.txt`" files in the `sessions` subdirectory in the student repo.
 * Began discussion of C++ Objects and Classes.  
 * Did Exercises 3 and 6 in class.   Solutions will be uploaded to the repo shortly. 
 
