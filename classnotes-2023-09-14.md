@@ -21,10 +21,11 @@ This program builds upon HW4, the Prime Generator assignment.
 
 Place your source files in a subdirectory of your personal repository named `hw5`.  
 
-**Beginning with this homework assignment, incorporate CMake instructions into your homework directory, such that `make build` will successfully compile and build your single-source executable. **
+**Beginning with this homework assignment, incorporate CMake instructions into your homework directory, such that `make build` will successfully compile and build your single-source executable.**
 
 ## General Homework Instructions
 
+<!-- * Beginning with HW5 (Goldbach), incorporate CMake instructions into your homework directory, such that `make build` will successfully compile and build your single-source executable. -->
 * You may work in groups of up to three people on this project.  
 * **!!! Put each person's name, UTEID, and TACC username at the top of each source code file.!!!** 
 * Your code must compile and execute without errors on the ISP machine using the `icpc` compiler.  
@@ -34,8 +35,8 @@ Place your source files in a subdirectory of your personal repository named `hw5
 
 ## Notes
 
-* Regularly update your copy of the student repository with the "`git pull`" command.
-* Homeworks will be due on Mondays and/or Wednesdays at midnight.  Automatic scripts will collect your homework from the appropriate subdirectory.  It is your responsibility to ensure the instructors and the TA have access to your personal class GitHub repository.
+* Be sure to Regularly update your copy of the student repository with the "`git pull`" command.
+* Homework will be due on Mondays and/or Wednesdays at midnight.  Automatic scripts will collect your homework from the appropriate subdirectory.  It is your responsibility to ensure the instructors and the TA have access to your personal class GitHub repository.
 * [COE 322 Student Repo](https://github.com/TACC/coe322fall2023) (read only)
 * [Zoom recordings](https://utexas.instructure.com/courses/1370834/external_tools/92539)
 
