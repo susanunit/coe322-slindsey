@@ -8,21 +8,22 @@ Use only ranges and algorithms, no explicit loops.
 2. Use iota to iterate over numbers: if one is equal to the sum of its factors, print it out.
 3. Use filter to pick out these numbers.
 */
+
 #include <ranges>
 #include <iostream>
 #include <vector>
 #include <algorithm>
-#include <iterator>
-using namespace std;
+#include <numeric>
+
+// namespace rng = std::ranges;
 
 int main () {
 
+	std::vector<float> elements{.5f,1.f,1.5f}; 
 
-	vector<float> elements{.5f,1.f,1.5f}; 
+	auto sum_of_elts = std::accumulate( elements.begin(), elements.end(), 0.f ); 
 
-	auto sum_of_elts = rng::accumulate( elements, 0.f ); 
-
-	cout << "Sum of elements: " << sum_of_elts << '\n';
+	std::cout << "Sum of elements: " << sum_of_elts << '\n';
 
 	return 1;
 
